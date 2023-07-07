@@ -1,2 +1,2 @@
 # leetcode
-a dump for my leet code solutions
+java leet code solutions and misc
